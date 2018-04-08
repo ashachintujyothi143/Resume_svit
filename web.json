@@ -4,5 +4,49 @@
     "name":"v.asha",
     "phone":"3454657673",
     "email":"asha@gmail.com"
+  },
+  "skills":[
+    {
+      "name":"Programming languages",
+      "value":"C,C++,JAVA"
+
+     },
+    {
+      "name":"operating Systems",
+      "value":"Windows,Linux"
+    },
+    {
+      "name":"Web technologies",
+      "value":"HTML,CSS,JAVA SCRIPT,PHYTHON"
+    }
+  ],
+  "education":[
+    {
+      "name":"asha jyothi",
+      "qualification":"B.tech(Computer science and Engineering)",
+      "college":[
+        "Sri venkateswara institute of technology",
+        "2015-2019",
+        "75%"
+      ]
+    },
+      {
+        "qualification":"Intermediate(MPC)",
+        "college":[
+          "Chaithanya jr college",
+          "2013-2015",
+          "80%"
+        ]
+      },
+
+
+  {
+    "qualification":"ssc",
+    "college":[
+        "public high school",
+        "2012-2013",
+        "87%"
+    ]
   }
+]
 }
